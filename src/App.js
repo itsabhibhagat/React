@@ -27,6 +27,6 @@ const App = ()=> {
   );
 }
 
-//exporting the app component
+// exporting the app component/class to be used in other files
 
 export default App;
