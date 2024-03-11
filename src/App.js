@@ -27,4 +27,6 @@ const App = ()=> {
   );
 }
 
+//exporting the app component
+
 export default App;
